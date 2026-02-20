@@ -51,10 +51,10 @@ cd <repository-name>
 # Backend setup
 cd backend
 npm install
-node src/server.js
+node server.js
 
 # IMPORTANT:
-# node src/server.js blocks the terminal.
+# node server.js blocks the terminal.
 # Open a NEW terminal before running the commands below.
 
 # Frontend setup (new terminal)
